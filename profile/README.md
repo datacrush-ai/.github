@@ -1,6 +1,7 @@
+# Data Crush.Inc 👋
 [<img src="https://github.com/datacrush-ai/.github/blob/main/profile/img/logo.png">](https://datacrush.ai)
 
-# Repository 
+## Repository 
 
 ### Storage
 - [데이터 저장소](https://github.com/datacrush-ai/datacrush-info)
@@ -19,7 +20,7 @@
 
 <br>
 
-# github role
+## github role
 
 ### 일반
 
