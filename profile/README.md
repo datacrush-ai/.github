@@ -1,7 +1,6 @@
 [<img src="https://github.com/datacrush-ai/.github/blob/main/profile/img/logo.png">](https://datacrush.ai)
 
 # Repository 
-- 설명 (Repository 이름)
 
 ### Storage
 - [데이터 저장소](https://github.com/datacrush-ai/datacrush-info)
