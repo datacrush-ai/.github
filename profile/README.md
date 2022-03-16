@@ -1,4 +1,4 @@
-<img src="./img/logo.png" width="300" height="250">
+<img src="./img/logo.png">
 
 # github role
 
