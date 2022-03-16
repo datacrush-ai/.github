@@ -1,6 +1,25 @@
 [<img src="https://github.com/datacrush-ai/.github/blob/main/profile/img/logo.png">](https://datacrush.ai)
 
-## github role
+# Repository 
+- 설명 (Repository 이름)
+
+### Storage
+- [데이터 저장소](https://github.com/datacrush-ai/datacrush-info)
+
+### VIVO
+- [VIVO 프론트엔드 (vivo_client)](https://github.com/datacrush-ai/vivo_client)
+- [VIVO 백엔드 - NestJS (vivo-backend)](https://github.com/datacrush-ai/vivo-backend)
+- VIVO 백엔드 - FastAPI
+
+### myK 중간광고
+- [myK 안드로이드 버전 - KBS (myk-android-kbs)](https://https://github.com/datacrush-ai/myk-andorid-kbs)
+- [myK 안드로이드 버전 - Datacrush (myk-android-dc)](https://github.com/datacrush-ai/myk-andorid-dc)
+
+### 고양시청
+- [고양시청 프론트엔드 (gycity_mvn)](https://github.com/datacrush-ai/gycity_mvn)
+
+
+# github role
 
 ### 일반
 
