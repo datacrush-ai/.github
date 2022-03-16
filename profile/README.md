@@ -1,4 +1,4 @@
-[![logo](./img/logo.png)](https://datacrush.ai/)
+<img src="./img/logo.png" width="300" height="250">
 
 # github role
 
