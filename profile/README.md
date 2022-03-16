@@ -1,4 +1,4 @@
-<img src="./img/logo.png">
+<img src="https://github.com/datacrush-ai/.github/blob/main/profile/img/logo.png">
 
 # github role
 
