@@ -1,4 +1,4 @@
-[<img src="https://github.com/datacrush-ai/.github/blob/main/profile/img/logo.png">](datacrush.ai)
+[<img src="https://github.com/datacrush-ai/.github/blob/main/profile/img/logo.png">](https://datacrush.ai)
 
 # github role
 
