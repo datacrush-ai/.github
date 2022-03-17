@@ -11,13 +11,17 @@
 - [VIVO 백엔드 - NestJS (vivo-backend)](https://github.com/datacrush-ai/vivo-backend)
 - VIVO 백엔드 - FastAPI
 
+### 자막 사업
+- [자막 생산 프로세스 자동화 (subtitle_work_process)](https://github.com/datacrush-ai/subtitle_work_process)
+
+
 ### myK 중간광고
 - [myK 안드로이드 버전 - KBS (myk-android-kbs)](https://github.com/datacrush-ai/myk-andorid-kbs)
 - [myK 안드로이드 버전 - Datacrush (myk-android-dc)](https://github.com/datacrush-ai/myk-andorid-dc)
 
 ### 고양시청
 - [고양시청 프론트엔드 (gycity_mvn)](https://github.com/datacrush-ai/gycity_mvn)
-
+- [고양시청 batch processing (gycity_file_distribution)](https://github.com/datacrush-ai/gycity_file_distribution)
 <br>
 
 ## github role
